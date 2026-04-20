@@ -83,7 +83,7 @@ SafeMind/
 
 The navigable Figma prototype covers the full user journey — from anonymous onboarding through symptom assessment to triage result and routing output.
 
-> 🔗 **[View Prototype on Figma](#)** ← *(link to be added)*
+> 🔗 **[View Prototype on Figma](https://www.figma.com/proto/gyIjZpPRpowfaW4I1sGgFJ/SafeMind?node-id=1-3225&t=iZ3zAoo3Xe3DNNcM-1)** ← *(link to be added)*
 
 **Screens included:**
 - Onboarding & privacy consent
